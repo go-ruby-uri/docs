@@ -2,3 +2,5 @@ github.com/go-ruby-uri/uri v0.0.0-20260629113958-59633d1b0deb h1:CyoFEEsMPa/TX4E
 github.com/go-ruby-uri/uri v0.0.0-20260629113958-59633d1b0deb/go.mod h1:/7+NF+4kESzcNHjRtNe/lAfhgHpgElX4C+VNo0xsb6Y=
 github.com/go-ruby-uri/uri v0.0.0-20260717075231-3bc88781d7e3 h1:+jmJYac7ItWX5wu4pWaB1oNAyOX03RDExlrTlKnLpSo=
 github.com/go-ruby-uri/uri v0.0.0-20260717075231-3bc88781d7e3/go.mod h1:/7+NF+4kESzcNHjRtNe/lAfhgHpgElX4C+VNo0xsb6Y=
+github.com/go-ruby-uri/uri v0.0.0-20260916103846-a8de1e4e5937 h1:WF22KcFLpI5wIIBh7pVbr2a13Ptex9Qth/6UkYbDjKM=
+github.com/go-ruby-uri/uri v0.0.0-20260916103846-a8de1e4e5937/go.mod h1:/7+NF+4kESzcNHjRtNe/lAfhgHpgElX4C+VNo0xsb6Y=
